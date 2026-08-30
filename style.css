@@ -185,11 +185,12 @@ a:hover {
     section h2 {
         font-size: 27px;
     }
-body {
-    background: red;
 }
 
     main {
         width: 88%;
     }
+}
+body {
+    background: red;
 }
